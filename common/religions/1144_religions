@@ -4,7 +4,100 @@ catholic = { # catholic
 	modifier = { global_citizen_happyness = happiness_large_svalue }
 	religion_category = paradigms
 }
+
 gr_orthodox = { # greek_orthodox
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+ge_orthodox = { # georgian_orthodox
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+sl_orthodox = { # slavic_orthodox
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+nb_orthodox = { # nubian_orthodox
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+bg_orthodox = { # bulgarian_orthodox
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+coptic = { # coptic
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+syriac = { # syriac
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+nestorian = { # syriac
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+##### ISLAM #####
+sunni = { # sunni
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+shia = { # shia
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+ibadi = { # omani_ibadi
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+wahbi = { # maghrebi_ibadi
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+##### OTHER ABRAHAMIC ######
+mandean = { # mandeanism
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigm
+}
+
+yazidi = { # yazidism
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+druze = { # druze
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = paradigms
+}
+
+marcionic = { # marcionism
 	color = hsv { 0.65  0.7  0.8 }
 	modifier = { global_citizen_happyness = happiness_large_svalue }
 	religion_category = paradigms
