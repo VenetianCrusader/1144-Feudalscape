@@ -102,3 +102,22 @@ marcionic = { # marcionism
 	modifier = { global_citizen_happyness = happiness_large_svalue }
 	religion_category = paradigms
 }
+###### Pagan ######
+Recondite = { # Neo-Platonism + Other Philosophies
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = pantheon
+}
+
+Khazbic = { # circassian paganism
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = pantheon
+}
+
+
+slavic = { # circassian paganism
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = pantheon
+}
