@@ -1,0 +1,6 @@
+###### CHRISTIAN RELIGIONS #####
+catholic = { # catholic
+	color = hsv { 0.65  0.7  0.8 }
+	modifier = { global_citizen_happyness = happiness_large_svalue }
+	religion_category = pantheon
+}
