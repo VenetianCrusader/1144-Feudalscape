@@ -1805,9 +1805,10 @@ SC2 = { #Sweden
 		}
 
 SC3 = { #Norway
-			government = tribal_chiefdom
+			government = tribal_kingdom
 			primary_culture = scandian #unified culture for Scandinavia, vanilla setup is based on 550AD setup
 			religion = germanic_religion
+			centralization= 10
 
 			pantheon = { #Scandian deities
 
