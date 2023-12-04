@@ -1768,10 +1768,11 @@ road_network = {
 
 country = {
 	countries = {
+	#### SCANDINAVIA ####
 	SC1 = { #Denmark
 			government = tribal_kingdom
-			primary_culture = danish
-			religion = catholic
+			primary_culture = scandian
+			religion = germanic_religion
 			centralization=10
 
 			capital = 3885
@@ -1781,6 +1782,45 @@ country = {
 			}
 		}
 		
-				
+SC2 = { #Sweden
+			government = tribal_kingdom
+			primary_culture = scandian #unified culture for Scandinavia, vanilla setup is based on 550AD setup
+			religion = germanic_religion
+			centralization= 10
 
-		
+			pantheon = { #Scandian deities
+
+			{ deity = 1006 }
+			{ deity = 1008 }
+			{ deity = 1012 }
+			{ deity = 1003 }
+
+			}
+
+			capital = 6030
+
+			own_control_core = {
+				6030 6032 6031 6029 6026 6008 6019 6020 6014 6015 6016 6017 6018 6012 6013 6023 6007 6009 6010 6024 6022 6033 6036
+			}
+		}
+
+SC3 = { #Norway
+			government = tribal_chiefdom
+			primary_culture = scandian #unified culture for Scandinavia, vanilla setup is based on 550AD setup
+			religion = germanic_religion
+
+			pantheon = { #Scandian deities
+
+			{ deity = 1006 }
+			{ deity = 1008 }
+			{ deity = 1012 }
+			{ deity = 1003 }
+
+			}
+
+			capital = 6038
+
+			own_control_core = {
+				6038 6039 6037 6035 6025 6034 6040 6041 6042 6043 2122 2121 2119 2118 2128 2108 2127 2129 2130 2126
+			}
+		}
