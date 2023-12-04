@@ -1,0 +1,9 @@
+REB = "setup/countries/rebels.txt"
+PIR = "setup/countries/pirates.txt"
+BAR = "setup/countries/barbarians.txt"
+MER = "setup/countries/mercenaries.txt"
+
+  #### SCANDINAVIA ####
+  SC1 = "setup/countries/scandinaiva/denmark.txt"
+  SC2 = "setup/countries/scandinaiva/norway.txt"
+  SC3 = "setup/countries/scandinaiva/sweden.txt"
