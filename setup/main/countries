@@ -1,5 +1,5 @@
 ##### KINGDOM OF FRANCE #####
-PAS = { ### FRENCH CROWN ###
+F00 = { ### FRENCH CROWN ###
 			government = french_kingdom
 			primary_culture = francian
 			religion = catholic
@@ -12,7 +12,7 @@ PAS = { ### FRENCH CROWN ###
 			}
 		}
 
-DD7 = { ### DUCHY OF TOULOUSE ###
+F01 = { ### DUCHY OF TOULOUSE ###
 			
 			government = french_duchy
 			diplomatic_stance=warmongering_stance
